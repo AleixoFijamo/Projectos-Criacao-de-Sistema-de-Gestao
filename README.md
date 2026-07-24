@@ -1,10 +1,9 @@
 # Projectos-Criacao-de-Sistema-de-Gestao
 
 # Projecto 01: Gestão de Agentes
+<img width="1581" height="556" alt="GA_01" src="https://github.com/user-attachments/assets/7860a0b3-b5e1-4634-bdc2-67edda24f842" />
 
-<img width="1366" height="335" alt="GA_02" src="https://github.com/user-attachments/assets/b93f0760-a05d-437b-a0b3-f90128e71bdd" />
-
-<img width="643" height="544" alt="GA_01" src="https://github.com/user-attachments/assets/f43f0889-44c4-4457-87d0-e72d9c84760b" />
+<img width="1585" height="563" alt="GA_02" src="https://github.com/user-attachments/assets/f5cf4907-18be-42b8-a7d4-ecbe8564955b" />
 
 
 # Projecto 02: Rastreiamento de Encomendas
